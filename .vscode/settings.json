@@ -1,0 +1,18 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp"
+  },
+  "files.exclude": {
+    "Volitile_P53": true,
+    "Limits_P39": true,
+    "Hex_Dec_P43": true,
+    "Exercise_2_P34": true,
+    "Functions/Comments_P31": true,
+    "Random_P65": true,
+    "Format_Inputs_p93": true,
+    "Manipulators": true,
+    "Strings_P71": true,
+    "Char_Str_Boolean_P89": true
+  }
+}
